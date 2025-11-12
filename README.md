@@ -1,11 +1,21 @@
+-------------------------------------------------
+
 Advanced Game Development
+
 Final Project Proposal
+
 Ethan Aitken, Nathaniel Major
+
+-------------------------------------------------
 
 Zero-Gravity Pool
 Billiards, in space!
 
+-------------------------------------------------
+
+
 Summary
+
 Traditional Billiards, with a twist. Instead of playing on a table, the playing field is a giant
 cube where all balls are suspended in a zero-gravity environment with wind resistance. The
 goal of the game is for you (the white ball) to sink all of one type of ball (stripe or solids)
@@ -15,7 +25,11 @@ the shot in a free roam camera view. Physics collisions will move balls around t
 field, where the “holes” you sink the balls in will be positioned in each corner of the cube,
 as well as the midpoint of each edge.
 
+-------------------------------------------------
+
+
 Features
+
 Mathematical Foundations:
 1. Applied forces, wind resistance, resultant vector formulas for trajectory,
 accelerations, etc. All come into play for ball transformations around the playing
