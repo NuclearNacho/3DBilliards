@@ -1,5 +1,3 @@
--------------------------------------------------
-
 Advanced Game Development
 
 Final Project Proposal
