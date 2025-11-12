@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\ball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\resource_manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\scene_graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\scene_node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\ball.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\resource_manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\scene_graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\scene_node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\material_vp.glsl" />
+    <None Include="C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\material_fp.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B8908D76-F1D2-36E8-B286-57ACF5DE8E63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D9D7933B-0AF8-315A-8384-921B1F21E9C4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+﻿  ball.cpp
+  game.cpp
+C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\game.cpp(29,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\game.cpp(167,109): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\game.cpp(167,102): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\game.cpp(1064,119): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\game.cpp(1064,112): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  main.cpp
+  scene_graph.cpp
+  scene_node.cpp
+  Generating Code...
+  CameraDemo.vcxproj -> C:\Users\ethan\OneDrive\University Work\Computer Science\Advanced Game Development\Project\Pool3D_AitkenMajor_3406\CameraDemo\build\Debug\CameraDemo_d.exe
